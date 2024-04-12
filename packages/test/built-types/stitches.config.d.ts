@@ -5135,7 +5135,7 @@ export declare const styled: {
         };
     };
 };
-export declare type CSS = Stitches.CSS<typeof config>;
+export type CSS = Stitches.CSS<typeof config>;
 export declare const darkTheme: string & {
     className: string;
     selector: string;

@@ -910,7 +910,7 @@ export declare const Text: import("@secrecy/stitches-react/types/styled-componen
     };
 }>>;
 declare const DEFAULT_TAG = "h1";
-export declare type HeadingProps = React.ComponentProps<typeof DEFAULT_TAG> & {
+export type HeadingProps = React.ComponentProps<typeof DEFAULT_TAG> & {
     css?: CSS;
 };
 export {};
