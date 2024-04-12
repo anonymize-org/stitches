@@ -1,6 +1,6 @@
 {
   "name": "@secrecy/stitches-test",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "type": "module",
   "files": [
     "dist/*.cjs",
