@@ -1,6 +1,6 @@
 {
   "name": "@secrecy/stitches-stringify",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Converts an object into CSS",
   "type": "module",
   "main": "dist/index.cjs",
