@@ -9,7 +9,8 @@
       "dom",
       "es2020"
     ],
-    "moduleResolution": "node",
+    "moduleResolution": "Bundler",
+    "module": "Preserve",
     "strict": true,
     "strictNullChecks": true,
     "strictFunctionTypes": true,
